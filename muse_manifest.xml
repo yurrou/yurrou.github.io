@@ -1,0 +1,68 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://yurrou.github.io" resolutions="1x,2x" timestamp="1555569552332">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="the_pearl.css" crc="3759742646" ref="the_pearl"/>
+    <file name="index.css" crc="302584088" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the_pearl"/>
+    <file name="museutils.js" crc="340535759" ref="index:the_pearl"/>
+    <file name="whatinput.js" crc="86476730" ref="index:the_pearl"/>
+    <file name="museconfig.js" crc="310584261" ref="index:the_pearl"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:the_pearl"/>
+    <file name="require.js" crc="7928878" ref="index:the_pearl"/>
+    <file name="webpro.js" crc="4059564322" ref="the_pearl"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="the_pearl"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="the_pearl"/>
+    <file name="touchswipe.js" crc="4075097462" ref="the_pearl"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="the_pearl"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="3815252681" ref="index"/>
+    <file name="the_pearl-favicon.ico" crc="3815252681" ref="the_pearl"/>
+    <file name="top.svg" crc="200601808" ref="the_pearl"/>
+    <file name="top_poster_u500.png" crc="4089830930" ref="the_pearl"/>
+    <file name="fly0828.jpg" crc="4230968583" seo="true" ref="the_pearl">
+      <caption webpage="the_pearl" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="the_pearl"/>
+    <file name="_10007.jpg" crc="4012575694" seo="true" ref="the_pearl">
+      <caption webpage="the_pearl" alt=""/>
+    </file>
+    <file name="_10717.jpg" crc="3827646564" seo="true" ref="the_pearl">
+      <caption webpage="the_pearl" alt=""/>
+    </file>
+    <file name="oooooh0788.jpg" crc="4052331138" seo="true" ref="the_pearl">
+      <caption webpage="the_pearl" alt=""/>
+    </file>
+    <file name="queen0226.jpg" crc="3812542000" seo="true" ref="the_pearl">
+      <caption webpage="the_pearl" alt=""/>
+    </file>
+    <file name="up_10191.jpg" crc="4150858417" seo="true" ref="the_pearl">
+      <caption webpage="the_pearl" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="the_pearl"/>
+    <file name="ppt-2.png" crc="303182811" ref="the_pearl">
+      <caption webpage="the_pearl" alt=""/>
+    </file>
+    <file name="ppt-2_2x.png" crc="331099690" ref="the_pearl">
+      <caption webpage="the_pearl" alt=""/>
+    </file>
+    <file name="u439-4.png" crc="355991993" ref="the_pearl"/>
+    <file name="u439-4_2x.png" crc="100865102" ref="the_pearl"/>
+    <file name="u443-4.png" crc="3783801601" ref="the_pearl"/>
+    <file name="u443-4_2x.png" crc="3770039188" ref="the_pearl"/>
+    <file name="u434-4.png" crc="3807912937" ref="the_pearl"/>
+    <file name="u434-4_2x.png" crc="4016063934" ref="the_pearl"/>
+    <file name="u446-4.png" crc="3776908295" ref="the_pearl"/>
+    <file name="u446-4_2x.png" crc="139942620" ref="the_pearl"/>
+    <file name="pretty pearl.png" crc="3825312773" ref="the_pearl">
+      <caption webpage="the_pearl" alt=""/>
+    </file>
+    <file name="pretty pearl_2x.png" crc="52331860" ref="the_pearl">
+      <caption webpage="the_pearl" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="421130882" seo="true" mt="1555516156936" redirect="false"/>
+  <file name="the_pearl.html" crc="523372225" seo="true" mt="1555569550534" redirect="true"/>
+</manifest>
