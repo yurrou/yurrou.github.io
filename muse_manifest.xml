@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://yurrou.github.io" resolutions="1x,2x" timestamp="1555582791708">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://yurrou.github.io" resolutions="1x,2x" timestamp="1555582870445">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="381530007" ref="index"/>
+    <file name="index.css" crc="3759742646" ref="index"/>
     <file name="untitled-4.css" crc="302584088" ref="untitled-4"/>
   </folder>
   <folder name="scripts">
@@ -71,43 +71,7 @@
       <caption webpage="the_pearl" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_10007-crop-u588.jpg" crc="274462795" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_10007-crop-u588_2x.jpg" crc="4242415733" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_10717-crop-u696.jpg" crc="3921913655" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_10717-crop-u696_2x.jpg" crc="3982559196" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="oooooh0788-crop-u722.jpg" crc="196302107" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="oooooh0788-crop-u722_2x.jpg" crc="4027949732" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="queen0226-crop-u748.jpg" crc="4018800224" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="queen0226-crop-u748_2x.jpg" crc="326149317" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fly0828-crop-u774.jpg" crc="366110387" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fly0828-crop-u774_2x.jpg" crc="3925162102" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="up_10191-crop-u800.jpg" crc="472415106" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="up_10191-crop-u800_2x.jpg" crc="4073144686" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="241096039" seo="true" mt="1555582777153" redirect="true"/>
+  <file name="index.html" crc="3994929775" seo="true" mt="1555582829250" redirect="true"/>
   <file name="untitled-4.html" crc="3790518984" seo="true" mt="1555569814681" redirect="false"/>
 </manifest>
