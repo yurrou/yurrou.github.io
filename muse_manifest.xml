@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://yurrou.github.io" resolutions="1x,2x" timestamp="1555584036388">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://yurrou.github.io" resolutions="1x,2x" timestamp="1555584512307">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3759742646" ref="index"/>
+    <file name="index.css" crc="3770100281" ref="index"/>
     <file name="untitled-4.css" crc="302584088" ref="untitled-4"/>
   </folder>
   <folder name="scripts">
@@ -66,6 +66,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4233209036" seo="true" mt="1555583970465" redirect="true"/>
+  <file name="index.html" crc="181012761" seo="true" mt="1555584487803" redirect="true"/>
   <file name="untitled-4.html" crc="3790518984" seo="true" mt="1555569814681" redirect="false"/>
 </manifest>
