@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://yurrou.github.io/index.html</loc>
-    <lastmod>2019-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://yurrou.github.io/the_pearl.html</loc>
     <lastmod>2019-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -29,5 +23,11 @@
     <image:image>
       <image:loc>http://yurrou.github.io/images/up_10191.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://yurrou.github.io/untitled-4.html</loc>
+    <lastmod>2019-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
